@@ -8,7 +8,7 @@ I'm a web developer experienced in the JavaScript and React ecosystem
 
 * 🌍  I'm based in Europe
 * ✉️  You can contact me at [francescorizzello94@gmail.com](mailto:francescorizzello94@gmail.com)
-* 🚀  I'm currently working on [3D Playground](http://https://threedplayground.netlify.app/)
+* 🚀  I'm currently working on [3D Playground](https://threedplayground.netlify.app/)
 * 🧠  I'm learning Angular, Redux, Recoil, JavaScript game dev, UI/UX, Legal Engineering
 * 🤝  I'm open to collaborating on Frontend projects, MERN stack apps, videogames and legal automation tools
 * ⚡  In my spare time I study computer science @ IU, work out, write poetry, read non-fiction and play chess on Lichess
